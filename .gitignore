@@ -86,3 +86,5 @@ fabric.properties
 0Looking
 
 node_modules
+
+npm-debug.log
